@@ -7,3 +7,4 @@ test git line6
 create branch dev master/
 working
 resolve bug
+resolve bug2
