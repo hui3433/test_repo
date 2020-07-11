@@ -4,4 +4,4 @@ test git line3
 test git line4
 test git line5
 test git line6
-create branch dev master
+create branch dev master/
